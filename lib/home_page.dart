@@ -63,7 +63,7 @@ class _HomePageState extends State<HomePage> {
               ),
               GButton(
                 icon: Icons.camera,
-                text: 'Chats',
+                text: 'Instagram Home',
               ),
             ],
           ),
